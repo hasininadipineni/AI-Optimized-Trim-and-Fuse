@@ -1,0 +1,401 @@
+request_id,predicted_status,validation_errors,original_label
+OTPREQ-0000,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0001,PASS,,valid
+OTPREQ-0002,PASS,,valid
+OTPREQ-0003,FAIL,buck1_V out of range,out_of_range
+OTPREQ-0004,PASS,,valid
+OTPREQ-0005,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0006,PASS,,valid
+OTPREQ-0007,PASS,,valid
+OTPREQ-0008,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0009,PASS,,valid
+OTPREQ-0010,FAIL,I2C address collision,address_collision
+OTPREQ-0011,PASS,,valid
+OTPREQ-0012,PASS,,valid
+OTPREQ-0013,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0014,PASS,,valid
+OTPREQ-0015,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0016,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0017,PASS,,valid
+OTPREQ-0018,PASS,,valid
+OTPREQ-0019,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0020,PASS,,valid
+OTPREQ-0021,PASS,,valid
+OTPREQ-0022,PASS,,valid
+OTPREQ-0023,PASS,,valid
+OTPREQ-0024,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0025,FAIL,I2C address collision,address_collision
+OTPREQ-0026,PASS,,valid
+OTPREQ-0027,PASS,,valid
+OTPREQ-0028,PASS,,valid
+OTPREQ-0029,FAIL,I2C address collision,address_collision
+OTPREQ-0030,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0031,PASS,,sequence_conflict
+OTPREQ-0032,PASS,,valid
+OTPREQ-0033,PASS,,valid
+OTPREQ-0034,PASS,,valid
+OTPREQ-0035,PASS,,valid
+OTPREQ-0036,PASS,,sequence_conflict
+OTPREQ-0037,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0038,PASS,,valid
+OTPREQ-0039,FAIL,I2C address collision,address_collision
+OTPREQ-0040,PASS,,valid
+OTPREQ-0041,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0042,PASS,,valid
+OTPREQ-0043,PASS,,valid
+OTPREQ-0044,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0045,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0046,PASS,,valid
+OTPREQ-0047,PASS,,valid
+OTPREQ-0048,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0049,PASS,,valid
+OTPREQ-0050,PASS,,sequence_conflict
+OTPREQ-0051,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0052,FAIL,I2C address collision,address_collision
+OTPREQ-0053,PASS,,valid
+OTPREQ-0054,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0055,PASS,,valid
+OTPREQ-0056,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0057,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0058,PASS,,valid
+OTPREQ-0059,PASS,,valid
+OTPREQ-0060,PASS,,sequence_conflict
+OTPREQ-0061,PASS,,valid
+OTPREQ-0062,PASS,,valid
+OTPREQ-0063,PASS,,valid
+OTPREQ-0064,PASS,,valid
+OTPREQ-0065,PASS,,valid
+OTPREQ-0066,FAIL,I2C address collision,address_collision
+OTPREQ-0067,PASS,,valid
+OTPREQ-0068,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0069,FAIL,I2C address collision,address_collision
+OTPREQ-0070,FAIL,I2C address collision,address_collision
+OTPREQ-0071,PASS,,valid
+OTPREQ-0072,PASS,,valid
+OTPREQ-0073,PASS,,valid
+OTPREQ-0074,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0075,PASS,,sequence_conflict
+OTPREQ-0076,PASS,,valid
+OTPREQ-0077,PASS,,valid
+OTPREQ-0078,PASS,,valid
+OTPREQ-0079,PASS,,valid
+OTPREQ-0080,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0081,PASS,,valid
+OTPREQ-0082,PASS,,valid
+OTPREQ-0083,PASS,,valid
+OTPREQ-0084,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0085,PASS,,valid
+OTPREQ-0086,PASS,,valid
+OTPREQ-0087,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0088,PASS,,valid
+OTPREQ-0089,PASS,,sequence_conflict
+OTPREQ-0090,PASS,,valid
+OTPREQ-0091,PASS,,valid
+OTPREQ-0092,PASS,,valid
+OTPREQ-0093,PASS,,valid
+OTPREQ-0094,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0095,PASS,,valid
+OTPREQ-0096,PASS,,sequence_conflict
+OTPREQ-0097,PASS,,valid
+OTPREQ-0098,PASS,,valid
+OTPREQ-0099,PASS,,valid
+OTPREQ-0100,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0101,PASS,,sequence_conflict
+OTPREQ-0102,PASS,,sequence_conflict
+OTPREQ-0103,PASS,,valid
+OTPREQ-0104,PASS,,valid
+OTPREQ-0105,PASS,,valid
+OTPREQ-0106,PASS,,valid
+OTPREQ-0107,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0108,PASS,,valid
+OTPREQ-0109,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0110,PASS,,sequence_conflict
+OTPREQ-0111,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0112,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0113,FAIL,buck1_V out of range,out_of_range
+OTPREQ-0114,PASS,,valid
+OTPREQ-0115,PASS,,valid
+OTPREQ-0116,PASS,,valid
+OTPREQ-0117,PASS,,valid
+OTPREQ-0118,PASS,,valid
+OTPREQ-0119,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0120,PASS,,valid
+OTPREQ-0121,PASS,,valid
+OTPREQ-0122,PASS,,valid
+OTPREQ-0123,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0124,FAIL,I2C address collision,address_collision
+OTPREQ-0125,PASS,,valid
+OTPREQ-0126,PASS,,sequence_conflict
+OTPREQ-0127,PASS,,sequence_conflict
+OTPREQ-0128,PASS,,valid
+OTPREQ-0129,PASS,,valid
+OTPREQ-0130,PASS,,valid
+OTPREQ-0131,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0132,PASS,,sequence_conflict
+OTPREQ-0133,FAIL,buck1_V out of range,out_of_range
+OTPREQ-0134,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0135,PASS,,valid
+OTPREQ-0136,PASS,,valid
+OTPREQ-0137,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0138,PASS,,valid
+OTPREQ-0139,PASS,,valid
+OTPREQ-0140,PASS,,valid
+OTPREQ-0141,PASS,,valid
+OTPREQ-0142,PASS,,valid
+OTPREQ-0143,PASS,,valid
+OTPREQ-0144,PASS,,valid
+OTPREQ-0145,PASS,,valid
+OTPREQ-0146,PASS,,valid
+OTPREQ-0147,PASS,,valid
+OTPREQ-0148,PASS,,valid
+OTPREQ-0149,FAIL,I2C address collision,address_collision
+OTPREQ-0150,PASS,,valid
+OTPREQ-0151,PASS,,sequence_conflict
+OTPREQ-0152,PASS,,valid
+OTPREQ-0153,FAIL,I2C address collision,address_collision
+OTPREQ-0154,PASS,,valid
+OTPREQ-0155,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0156,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0157,PASS,,valid
+OTPREQ-0158,PASS,,valid
+OTPREQ-0159,PASS,,valid
+OTPREQ-0160,PASS,,valid
+OTPREQ-0161,PASS,,valid
+OTPREQ-0162,PASS,,sequence_conflict
+OTPREQ-0163,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0164,PASS,,valid
+OTPREQ-0165,FAIL,I2C address collision,address_collision
+OTPREQ-0166,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0167,PASS,,valid
+OTPREQ-0168,PASS,,valid
+OTPREQ-0169,PASS,,valid
+OTPREQ-0170,PASS,,valid
+OTPREQ-0171,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0172,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0173,FAIL,I2C address collision,address_collision
+OTPREQ-0174,PASS,,valid
+OTPREQ-0175,PASS,,valid
+OTPREQ-0176,PASS,,valid
+OTPREQ-0177,PASS,,sequence_conflict
+OTPREQ-0178,PASS,,sequence_conflict
+OTPREQ-0179,PASS,,valid
+OTPREQ-0180,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0181,PASS,,valid
+OTPREQ-0182,PASS,,valid
+OTPREQ-0183,PASS,,valid
+OTPREQ-0184,PASS,,valid
+OTPREQ-0185,PASS,,valid
+OTPREQ-0186,PASS,,valid
+OTPREQ-0187,PASS,,valid
+OTPREQ-0188,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0189,PASS,,valid
+OTPREQ-0190,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0191,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0192,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0193,PASS,,valid
+OTPREQ-0194,FAIL,I2C address collision,address_collision
+OTPREQ-0195,PASS,,valid
+OTPREQ-0196,PASS,,valid
+OTPREQ-0197,PASS,,sequence_conflict
+OTPREQ-0198,PASS,,valid
+OTPREQ-0199,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0200,FAIL,I2C address collision,address_collision
+OTPREQ-0201,PASS,,valid
+OTPREQ-0202,PASS,,valid
+OTPREQ-0203,PASS,,valid
+OTPREQ-0204,PASS,,valid
+OTPREQ-0205,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0206,FAIL,I2C address collision,address_collision
+OTPREQ-0207,PASS,,valid
+OTPREQ-0208,PASS,,valid
+OTPREQ-0209,PASS,,valid
+OTPREQ-0210,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0211,PASS,,sequence_conflict
+OTPREQ-0212,PASS,,valid
+OTPREQ-0213,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0214,PASS,,valid
+OTPREQ-0215,PASS,,valid
+OTPREQ-0216,PASS,,valid
+OTPREQ-0217,PASS,,sequence_conflict
+OTPREQ-0218,PASS,,valid
+OTPREQ-0219,PASS,,valid
+OTPREQ-0220,PASS,,valid
+OTPREQ-0221,PASS,,valid
+OTPREQ-0222,PASS,,valid
+OTPREQ-0223,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0224,PASS,,out_of_range
+OTPREQ-0225,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0226,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0227,FAIL,I2C address collision,address_collision
+OTPREQ-0228,PASS,,out_of_range
+OTPREQ-0229,PASS,,valid
+OTPREQ-0230,PASS,,valid
+OTPREQ-0231,FAIL,I2C address collision,address_collision
+OTPREQ-0232,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0233,PASS,,valid
+OTPREQ-0234,PASS,,valid
+OTPREQ-0235,PASS,,valid
+OTPREQ-0236,PASS,,valid
+OTPREQ-0237,PASS,,valid
+OTPREQ-0238,PASS,,valid
+OTPREQ-0239,PASS,,valid
+OTPREQ-0240,FAIL,I2C address collision,address_collision
+OTPREQ-0241,PASS,,valid
+OTPREQ-0242,FAIL,I2C address collision,address_collision
+OTPREQ-0243,FAIL,I2C address collision,address_collision
+OTPREQ-0244,PASS,,valid
+OTPREQ-0245,FAIL,I2C address collision,address_collision
+OTPREQ-0246,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0247,PASS,,valid
+OTPREQ-0248,PASS,,valid
+OTPREQ-0249,PASS,,valid
+OTPREQ-0250,PASS,,valid
+OTPREQ-0251,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0252,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0253,PASS,,valid
+OTPREQ-0254,PASS,,valid
+OTPREQ-0255,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0256,PASS,,valid
+OTPREQ-0257,PASS,,valid
+OTPREQ-0258,PASS,,sequence_conflict
+OTPREQ-0259,PASS,,valid
+OTPREQ-0260,PASS,,sequence_conflict
+OTPREQ-0261,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0262,PASS,,valid
+OTPREQ-0263,FAIL,I2C address collision,address_collision
+OTPREQ-0264,PASS,,valid
+OTPREQ-0265,PASS,,valid
+OTPREQ-0266,PASS,,valid
+OTPREQ-0267,PASS,,valid
+OTPREQ-0268,PASS,,valid
+OTPREQ-0269,PASS,,valid
+OTPREQ-0270,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0271,FAIL,I2C address collision,address_collision
+OTPREQ-0272,PASS,,valid
+OTPREQ-0273,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0274,PASS,,valid
+OTPREQ-0275,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0276,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0277,PASS,,valid
+OTPREQ-0278,PASS,,valid
+OTPREQ-0279,PASS,,valid
+OTPREQ-0280,PASS,,valid
+OTPREQ-0281,PASS,,sequence_conflict
+OTPREQ-0282,PASS,,sequence_conflict
+OTPREQ-0283,PASS,,valid
+OTPREQ-0284,PASS,,valid
+OTPREQ-0285,PASS,,valid
+OTPREQ-0286,FAIL,buck1_V out of range,out_of_range
+OTPREQ-0287,PASS,,valid
+OTPREQ-0288,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0289,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0290,PASS,,valid
+OTPREQ-0291,PASS,,valid
+OTPREQ-0292,PASS,,valid
+OTPREQ-0293,PASS,,valid
+OTPREQ-0294,PASS,,valid
+OTPREQ-0295,PASS,,valid
+OTPREQ-0296,PASS,,valid
+OTPREQ-0297,PASS,,valid
+OTPREQ-0298,FAIL,I2C address collision,address_collision
+OTPREQ-0299,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0300,PASS,,valid
+OTPREQ-0301,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0302,PASS,,valid
+OTPREQ-0303,PASS,,sequence_conflict
+OTPREQ-0304,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0305,PASS,,sequence_conflict
+OTPREQ-0306,PASS,,valid
+OTPREQ-0307,PASS,,valid
+OTPREQ-0308,PASS,,valid
+OTPREQ-0309,PASS,,valid
+OTPREQ-0310,PASS,,sequence_conflict
+OTPREQ-0311,PASS,,valid
+OTPREQ-0312,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0313,PASS,,valid
+OTPREQ-0314,PASS,,valid
+OTPREQ-0315,PASS,,valid
+OTPREQ-0316,PASS,,sequence_conflict
+OTPREQ-0317,PASS,,valid
+OTPREQ-0318,PASS,,valid
+OTPREQ-0319,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0320,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0321,PASS,,valid
+OTPREQ-0322,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0323,FAIL,buck1_V out of range,out_of_range
+OTPREQ-0324,PASS,,valid
+OTPREQ-0325,PASS,,valid
+OTPREQ-0326,FAIL,I2C address collision,address_collision
+OTPREQ-0327,PASS,,valid
+OTPREQ-0328,PASS,,valid
+OTPREQ-0329,PASS,,valid
+OTPREQ-0330,FAIL,I2C address collision,address_collision
+OTPREQ-0331,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0332,PASS,,sequence_conflict
+OTPREQ-0333,PASS,,sequence_conflict
+OTPREQ-0334,PASS,,valid
+OTPREQ-0335,PASS,,valid
+OTPREQ-0336,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0337,PASS,,valid
+OTPREQ-0338,PASS,,valid
+OTPREQ-0339,PASS,,valid
+OTPREQ-0340,PASS,,valid
+OTPREQ-0341,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0342,PASS,,valid
+OTPREQ-0343,PASS,,valid
+OTPREQ-0344,PASS,,valid
+OTPREQ-0345,FAIL,I2C address collision,address_collision
+OTPREQ-0346,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0347,PASS,,valid
+OTPREQ-0348,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0349,FAIL,ldo2_V out of range,out_of_range
+OTPREQ-0350,PASS,,valid
+OTPREQ-0351,FAIL,I2C address collision,address_collision
+OTPREQ-0352,FAIL,I2C address collision,address_collision
+OTPREQ-0353,PASS,,sequence_conflict
+OTPREQ-0354,PASS,,valid
+OTPREQ-0355,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0356,PASS,,valid
+OTPREQ-0357,PASS,,valid
+OTPREQ-0358,PASS,,valid
+OTPREQ-0359,PASS,,valid
+OTPREQ-0360,PASS,,valid
+OTPREQ-0361,PASS,,valid
+OTPREQ-0362,PASS,,valid
+OTPREQ-0363,PASS,,valid
+OTPREQ-0364,PASS,,valid
+OTPREQ-0365,PASS,,valid
+OTPREQ-0366,PASS,,valid
+OTPREQ-0367,PASS,,valid
+OTPREQ-0368,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0369,FAIL,Invalid sequence,invalid_sequence
+OTPREQ-0370,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0371,PASS,,valid
+OTPREQ-0372,PASS,,valid
+OTPREQ-0373,PASS,,sequence_conflict
+OTPREQ-0374,PASS,,valid
+OTPREQ-0375,PASS,,valid
+OTPREQ-0376,FAIL,I2C address collision,address_collision
+OTPREQ-0377,PASS,,valid
+OTPREQ-0378,PASS,,valid
+OTPREQ-0379,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0380,PASS,,valid
+OTPREQ-0381,PASS,,valid
+OTPREQ-0382,PASS,,valid
+OTPREQ-0383,PASS,,sequence_conflict
+OTPREQ-0384,PASS,,sequence_conflict
+OTPREQ-0385,PASS,,valid
+OTPREQ-0386,FAIL,buck2_V out of range,out_of_range
+OTPREQ-0387,PASS,,sequence_conflict
+OTPREQ-0388,PASS,,valid
+OTPREQ-0389,PASS,,valid
+OTPREQ-0390,PASS,,valid
+OTPREQ-0391,PASS,,valid
+OTPREQ-0392,PASS,,valid
+OTPREQ-0393,PASS,,valid
+OTPREQ-0394,FAIL,I2C address collision,address_collision
+OTPREQ-0395,PASS,,valid
+OTPREQ-0396,FAIL,Reserved I2C address,address_reserved
+OTPREQ-0397,PASS,,valid
+OTPREQ-0398,FAIL,ldo1_V out of range,out_of_range
+OTPREQ-0399,FAIL,Reserved I2C address,address_reserved
